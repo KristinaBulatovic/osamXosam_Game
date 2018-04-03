@@ -1,1 +1,1 @@
-# osamXosam_py
+# Python version 2.7.
